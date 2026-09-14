@@ -3,4 +3,18 @@ $nhsuk-assets-path: "/nhsuk-frontend/assets/";
 // Import NHS.UK frontend library
 @import "nhsuk-frontend/dist/nhsuk";
 
-// Add your custom CSS/Sass styles below.
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans:ital,wght@0,300..700;1,300..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+@import "Documents/GitHub/projects-3/app/assets/sass/colours.scss";
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inclusive Sans', 'Open Sans', sans-serif;
+  color: $bpor-colour-text-heading;
+}
+
+body {
+  font-family: 'Inclusive Sans', 'Open Sans', sans-serif;
+  color: $bpor-colour-text-default;
+}
+

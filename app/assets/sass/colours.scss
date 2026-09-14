@@ -1,0 +1,29 @@
+
+   $bpor-colour-primary-coral: #FF4D56;
+    $bpor-colour-primary-white: #FFFFFF;
+    $bpor-colour-primary-navy: #172862;
+    $bpor-colour-primary-off-black: #3C3C3B;
+    $bpor-colour-secondary-groveblue: #C7E9FF;
+    $bpor-colour-secondary-uniformlilac: #C4C5FF;
+    $bpor-colour-secondary-pinkquartz: #FFD1E0;
+    $bpor-colour-secondary-sunshineyellow: #ffe626;
+    $bpor-colour-secondary-blueflame: #0051C2;
+   
+
+     /** interractions colours */
+    $bpor-colour-error: var(--bpor-colour-primary-coral);
+    $bpor-colour-focus: var(--bpor-colour-secondary-sunshineyellow);
+    $bpor-colour-success: #28A745;
+
+    /** Text colours */
+    $bpor-colour-text-heading: #1C285E;
+    $bpor-colour-text-default: var(--bpor-colour-primary-off-black);
+    $bpor-colour-background-text-captions: #505A5F;
+    $bpor-colour-link: #1C285E;
+    $bpor-colour-link-hover: var(--bpor-colour-secondary-blueflame); 
+    $bpor-colour-link-visited: var(--bpor-colour-secondary-twilight);     
+    $bpor-colour-link-active: #172862;
+
+    /** Background colours */
+    $bpor-colour-background-default: #FAF4EB;
+    $bpor-colour-background-secondary: #FFFFFF;
